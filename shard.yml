@@ -1,0 +1,9 @@
+name: mastodon-api-crystal
+version: 0.1.0
+
+authors:
+  - Renato "Lond" Cerqueira <renato@lond.com.br>
+
+crystal: 0.25.1
+
+license: MIT
